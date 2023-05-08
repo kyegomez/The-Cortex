@@ -1,6 +1,6 @@
 # The Cortex, An AI Research OS
 
-[The Cortext Banner](https://www.notion.so/image/https%3A%2F%2Ffile.notion.so%2Ff%2Fs%2F70ad2573-25c2-4460-bd27-ab00d46f22a1%2Fthe-cortexbanner.png%3Fid%3D39c8e0a0-55a9-4a9f-a48e-e6d3640d331e%26table%3Dblock%26spaceId%3D31cad974-dc7f-4931-8e42-b5c7ccef21a1%26expirationTimestamp%3D1683650249066%26signature%3Di7lUTNw9FydgJsfslsGW54mLJrN7GXaqI9XygfZRU6k?table=block&id=39c8e0a0-55a9-4a9f-a48e-e6d3640d331e&cache=v2)
+![The Cortex Banner](https://www.notion.so/image/https%3A%2F%2Ffile.notion.so%2Ff%2Fs%2F70ad2573-25c2-4460-bd27-ab00d46f22a1%2Fthe-cortexbanner.png%3Fid%3D39c8e0a0-55a9-4a9f-a48e-e6d3640d331e%26table%3Dblock%26spaceId%3D31cad974-dc7f-4931-8e42-b5c7ccef21a1%26expirationTimestamp%3D1683650249066%26signature%3Di7lUTNw9FydgJsfslsGW54mLJrN7GXaqI9XygfZRU6k?table=block&id=39c8e0a0-55a9-4a9f-a48e-e6d3640d331e&cache=v2)
 
 
 I’m delighted to introduce you to “The Cortex, An AI Research OS”, a groundbreaking mesh of Standard Operating Procedures and playbooks to conducting AI research in a way that’s accessible, efficient, and inspiring.
